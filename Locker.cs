@@ -22,6 +22,8 @@ namespace LockerLock
         public Locker()
         {
             InitializeComponent();
+            pnIconos.BackColor=Color.FromArgb(80,Color.DarkGray);
+            pnIconos.Refresh();
         }
 
         private void panel1_DragEnter(object sender, DragEventArgs e)
@@ -153,7 +155,7 @@ namespace LockerLock
                     string[] f = r.Split('\\');
                     /*cerrar = new Thread(()=>killProcess(f[f.Length - 1]));
                     cerrar.Start();*/
-                    textBox1.Text += (f[f.Length-1].Trim()) + Environment.NewLine;
+                    //textBox1.Text += (f[f.Length-1].Trim()) + Environment.NewLine;
                 }
             }
         }
