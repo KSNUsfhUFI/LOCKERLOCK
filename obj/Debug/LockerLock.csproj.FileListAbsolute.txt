@@ -9,3 +9,14 @@ E:\LOCKERLOCK\LockerLock\bin\Debug\LockerLock.exe
 E:\LOCKERLOCK\LockerLock\bin\Debug\LockerLock.pdb
 E:\LOCKERLOCK\LockerLock\obj\Debug\LockerLock.exe
 E:\LOCKERLOCK\LockerLock\obj\Debug\LockerLock.pdb
+E:\LOCKERLOCK\bin\Debug\LockerLock.exe.config
+E:\LOCKERLOCK\bin\Debug\LockerLock.exe
+E:\LOCKERLOCK\bin\Debug\LockerLock.pdb
+E:\LOCKERLOCK\obj\Debug\LockerLock.csproj.AssemblyReference.cache
+E:\LOCKERLOCK\obj\Debug\LockerLock.csproj.SuggestedBindingRedirects.cache
+E:\LOCKERLOCK\obj\Debug\LockerLock.Locker.resources
+E:\LOCKERLOCK\obj\Debug\LockerLock.Properties.Resources.resources
+E:\LOCKERLOCK\obj\Debug\LockerLock.csproj.GenerateResource.cache
+E:\LOCKERLOCK\obj\Debug\LockerLock.csproj.CoreCompileInputs.cache
+E:\LOCKERLOCK\obj\Debug\LockerLock.exe
+E:\LOCKERLOCK\obj\Debug\LockerLock.pdb
